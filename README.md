@@ -114,4 +114,7 @@ Not only are they named helpfully and live in helpfully-named directories like `
 * MVC describes an architecture of three modularized parts: ```model```, ```controller```, ```view```
 * While Rails emulates the majority of an MVC structure, it is not a perfect "textbook" match &mdash; _by design_!
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-refresher-on-mvc/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-refresher-on-mvc/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Refresher on MVC</p>
